@@ -1,6 +1,6 @@
 # Codafy Privacy Policy
 
-**Last updated:** June 19, 2026
+**Last updated:** July 01, 2026
 
 Codafy ("the app") is a client application that lets you play music from a Plex Media Server that you own and control.
 
@@ -22,7 +22,7 @@ The app does not create an account with us.
 
 ## 2. Data Stored on Your Device
 
-To function properly, PlexMusic stores the following information locally on your device:
+To function properly, Codafy stores the following information locally on your device:
 
 - Your Plex authentication token and session.
 - Cached audio, artwork, and lyrics.
